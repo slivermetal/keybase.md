@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am slivermetal on github.
+  * I am slivermetal (https://keybase.io/slivermetal) on keybase.
+  * I have a public key ASAs3I78Pht2dAl090jBdHXQfZq2B3EL7Fg4Ec_oRvdvRAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086b35605d2b69f11f417179250abc0ca7a8448a587179917c3d004860c7cded80a",
+      "host": "keybase.io",
+      "kid": "01202cdc8efc3e1b76740974f748c17475d07d9ab607710bec583811cfe846f76f440a",
+      "uid": "869a97fcbcf27f6b23889b64f7681d19",
+      "username": "slivermetal"
+    },
+    "merkle_root": {
+      "ctime": 1584975931,
+      "hash": "1cdd021f73e751c156e1d8e9014ff768a2f3862450057ee53d462fa95085e930b37d3fd517e2ae49c39232ae98f4f225ce358c2fde251bbec85162a2e39c4cbd",
+      "hash_meta": "f0f29bcf0a68a1f0569659f86f67197ae7f77e4531e7499e83daf39a9055e4a0",
+      "seqno": 15552118
+    },
+    "service": {
+      "entropy": "Qu+8Mk8ihvb8tUNfky44t2KO",
+      "name": "github",
+      "username": "slivermetal"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584975938,
+  "expire_in": 504576000,
+  "prev": "e4a11f1209fbc9ebdcd12aaccebf872438964d2bed9e0a1bc0f96b53f2a08e9a",
+  "seqno": 60,
+  "tag": "signature"
+}
+```
+
+with the key [ASAs3I78Pht2dAl090jBdHXQfZq2B3EL7Fg4Ec_oRvdvRAo](https://keybase.io/slivermetal), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLNyO/D4bdnQJdPdIwXR10H2atgdxC+xYOBHP6Eb3b0QKp3BheWxvYWTESpcCPMQg5KEfEgn7yevc0Sqszr+HJDiWTSvtngobwPlrU/KgjprEII5AFpxO4VJuNr5N/LqW4LVdfsm2rCS8c9U6UC5xZHoAAgHCo3NpZ8RAOgsMvA8/OGNe7LHilihToWlAqejvBWUQvjKsgUPu1Gm2PGwOcY5eQeE9/6PDCrLyNIg9nMd0CC0pOjk26C+AAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICibgRO0uPCoUB3fN1bSm2XnyRBDU8FiyGpsLvmBQTOCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/slivermetal
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id slivermetal
+```
